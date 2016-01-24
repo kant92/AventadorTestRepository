@@ -1,2 +1,0 @@
-# AventadorTestRepository
-Test repository
